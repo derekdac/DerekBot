@@ -4,6 +4,6 @@
     "HI": "Hi!\nI’m DerekBot, the personal bot of Derek Christensen, a Technology Consultant from Boston.\n![derek](http://www.derekchristensen.com/wp-content/uploads/2010/06/2014-headshot-web.jpg)\nWant to know more about bots or learn about Derek? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Derek](postback:learn_about_derek)",
     "I'M HERE FOR THE BOT": "Yeah, makes sense. Bots are the future! I'd stay around to tell you more, but I'm on sabbatical right now and it's time for my nap.",
     "LEARN ABOUT DEREK": "Excellent choice! The best way to learn about Derek is to get inside his head at http://derekchristensen.com. You can also connect with Derek on LinkedIn at https://linkedin.com/in/derekchristensen.",
-    "BYE": "Drop the mic and walk away."
+    "BYE": "Drop the mic and walk away.",
     "GOODBYE": "Drop the mic and walk away."
 }
