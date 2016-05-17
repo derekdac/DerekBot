@@ -16,14 +16,15 @@
     "TALOFA": "Talofa, what's up cuz?",
     "NI HAO": "Ni hao ma, how are you?", 
     "HELP" : "Here's a list of keywords i understand: BOT, HELLO, HI, I LOVE YOU, BRO, NI HAO, WHAT DO YOU DO, YOU SUCK, YOU'RE FUNNY, TALOFA, NI HAO, BOBA FETT, LINKEDIN, TWITTER, and a few others you'll just have to find (hint: if you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot).",
-    "RTFM" : 
-    "MAN" : 
+    "RTFM" : "Here's a list of keywords i understand: BOT, HELLO, HI, I LOVE YOU, BRO, NI HAO, WHAT DO YOU DO, YOU SUCK, YOU'RE FUNNY, TALOFA, NI HAO, BOBA FETT, LINKEDIN, TWITTER, and a few others you'll just have to find (hint: if you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot).",
+    "MAN" : "Here's a list of keywords i understand: BOT, HELLO, HI, I LOVE YOU, BRO, NI HAO, WHAT DO YOU DO, YOU SUCK, YOU'RE FUNNY, TALOFA, NI HAO, BOBA FETT, LINKEDIN, TWITTER, and a few others you'll just have to find (hint: if you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot).",
     "BOBA FETT" : "Boba Fett! Boba Fett?! Where? May the force be with you.",
     "LINKEDIN": "Yeah, I'd love to connect with you on LinkedIn. Just request to connect at http://linkedin/in/derekchristensen.",
     "TWITTER": "I don't tweet a lot, but when I do it's good stuff. http://twitter.com/derekdac.",
     "TONY CUCCI ROCKS": "Yeah, Tony's the man.",
     "STEVE AFTSOMIS": "Best battleship project manager this side of the Mississippi.",
     "JEFF SOONG": "Now I am the master.\nOnly a master of evil, Darth.",
-    "DAVID LEWIS": "Crushing it. DLEW!!!!!!!!!!!!!"
-    "DISCONNECT": "Roger that, KiriBot is out of here."
+    "DAVID LEWIS": "Crushing it. DLEW!!!!!!!!!!!!!",
+    "CONNECT ME": "",
+    "DISCONNECT": "Roger that, DerekBot is out of here."
 }
