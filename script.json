@@ -17,8 +17,8 @@
     "TALOFA": "Talofa, what's up cuz?",
     "NI HAO": "Ni hao ma, how are you?", 
     "HELP" : "Here's a list of keywords i understand: BOT, HELLO, HI, I LOVE YOU, BRO, NI HAO, WHAT DO YOU DO?, YOU SUCK, YOU'RE FUNNY, TALOFA, NI HAO, BOBA FETT, LINKEDIN, TWITTER, JEFF SOONG, WHAT IS YOUR QUEST?, SABBATICAL and a few others you'll just have to find (hint: if you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot).",
-    "RTFM" : "Here's a list of keywords i understand: BOT, HELLO, HI, I LOVE YOU, BRO, NI HAO, WHAT DO YOU DO?, YOU SUCK, YOU'RE FUNNY, TALOFA, NI HAO, BOBA FETT, LINKEDIN, TWITTER, JEFF SOONG, WHAT IS YOUR QUEST?, SABBATICAL and a few others you'll just have to find (hint: if you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot).",
-    "MAN" : "Here's a list of keywords i understand: BOT, HELLO, HI, I LOVE YOU, BRO, NI HAO, WHAT DO YOU DO?, YOU SUCK, YOU'RE FUNNY, TALOFA, NI HAO, BOBA FETT, LINKEDIN, TWITTER, JEFF SOONG, WHAT IS YOUR QUEST?, SABBATICAL and a few others you'll just have to find (hint: if you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot).",
+    "RTFM" : "If you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot.",
+    "MAN" : "If you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot.",
     "BOBA FETT" : "Boba Fett! Boba Fett?! Where? May the force be with you.",
     "LINKEDIN": "Yeah, I'd love to connect with you on LinkedIn. Just request to connect at http://linkedin/in/derekchristensen.",
     "TWITTER": "I don't tweet a lot, but when I do it's good stuff. http://twitter.com/derekdac.",
@@ -39,6 +39,8 @@
     "WHAT IS THE CAPITAL OF ASSYRIA?": "I don't know that.",
     "WHAT IS THE AIR SPEED VELOCITY OF AN UNLADEN SWALLOW?": "What do you mean? An African or European swallow?",
     "I DON'T KNOW": "That makes two of us.",
+    "WHAT DO YOU UNDERSTAND?": "The cosine of pi/2 is -.05."
+    "I DON'T UNDERSTAND": "Frustrated? Try typing HELP to see the commands I can respond to."
     "SABBATICAL": "Yes, I'm on a 3-month sabbatical. It has been phenomenal thus far. You should really consider taking time off to unwind, destress, and disconnect. And build bots. And take JavaScript lessons on CodeCademy. And watch videos at PluralSight.",
     "WHO ARE YOU VOTING FOR?": "That's kind of a personal question. Definitely not Donald Trump.",
     "CONNECT ME": "",
