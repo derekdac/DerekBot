@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say("Welcome to Derek's bot! Thanks for dropping by. Just say HELLO to get started.")
+            return bot.say("Welcome to Derek's bot! Thanks for dropping by. Just say HELLO to get started. If I don't respond, it means you're not using keywords I understand. Type HELP to see a list of words and phrases you can use.")
                 .then(() => 'speak');
         }
     },
