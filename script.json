@@ -1,9 +1,29 @@
 {
-    "BOT": "Hi!\nI’m DerekBot, the personal bot of Derek Christensen, a Technology Consultant from Boston.\n![derek](http://www.derekchristensen.com/wp-content/uploads/2010/06/2014-headshot-web.jpg)\nWant to know more about bots or learn about Derek? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Derek](postback:learn_about_derek)",
-    "HELLO": "Hi!\nI’m DerekBot, the personal bot of Derek Christensen, a Technology Consultant from Boston.\n![derek](http://www.derekchristensen.com/wp-content/uploads/2010/06/2014-headshot-web.jpg)\nWant to know more about bots or learn about Derek? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Derek](postback:learn_about_derek)",
-    "HI": "Hi!\nI’m DerekBot, the personal bot of Derek Christensen, a Technology Consultant from Boston.\n![derek](http://www.derekchristensen.com/wp-content/uploads/2010/06/2014-headshot-web.jpg)\nWant to know more about bots or learn about Derek? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Derek](postback:learn_about_derek)",
-    "I'M HERE FOR THE BOT": "Yeah, makes sense. Bots are the future! I'd stay around to tell you more, but I'm on sabbatical right now and it's time for my nap.",
+    "BOT": "Hi!\nI’m DerekBot, the personal bot of Derek Christensen, a Technology Consultant from Boston.\nHere's my picture.![derek](http://www.derekchristensen.com/wp-content/uploads/2010/06/2014-headshot-web.jpg)\nWant to know more about bots or learn about Derek? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Derek](postback:learn_about_derek)",
+    "HELLO": "Hi!\nI’m DerekBot, the personal bot of Derek Christensen, a Technology Consultant from Boston.\nHere's my picture.![derek](http://www.derekchristensen.com/wp-content/uploads/2010/06/2014-headshot-web.jpg)\nWant to know more about bots or learn about Derek? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Derek](postback:learn_about_derek)",
+    "HI": "Hi!\nI’m DerekBot, the personal bot of Derek Christensen, a Technology Consultant from Boston.\nHere's my picture.![derek](http://www.derekchristensen.com/wp-content/uploads/2010/06/2014-headshot-web.jpg)\nWant to know more about bots or learn about Derek? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Derek](postback:learn_about_derek)",
+    "I'M HERE FOR THE BOT": "Yeah, makes sense. Bots are the future! You can build your own bot like this by forking the GitHub repo at: https://github.com/derekdac/DerekBot. I followed the tutorial at: https://github.com/esthercrawford/EstherBot and this is hosted on Heroku.",
     "LEARN ABOUT DEREK": "Excellent choice! The best way to learn about Derek is to get inside his head at http://derekchristensen.com. You can also connect with Derek on LinkedIn at https://linkedin.com/in/derekchristensen.",
     "BYE": "Drop the mic and walk away.",
-    "GOODBYE": "Drop the mic and walk away."
+    "GOODBYE": "Drop the mic and walk away.",
+    "I LOVE YOU": "Wow, I feel so close to you all of a sudden.",
+    "YOU SUCK": "Go to your room until you have something nice to say.",
+    "FUCK YOU": "You'll have to get in line behind your mom.", 
+    "YOU'RE FUNNY": "Thanks. I stole Data's humor chip and put the setting to 100%",
+    "YOU'RE A NERD": "I knew this was going to come up eventually. Yes, I'm a nerd. I even own a pocket protector.",
+    "BRO": "Shaka, bro.",
+    "WHAT DO YOU DO": "I'm a nice guy who loves learning and wants to help other people learn. To see all the commands I respond to, type in HELP",
+    "TALOFA": "Talofa, what's up cuz?",
+    "NI HAO": "Ni hao ma, how are you?", 
+    "HELP" : "Here's a list of keywords i understand: BOT, HELLO, HI, I LOVE YOU, BRO, NI HAO, WHAT DO YOU DO, YOU SUCK, YOU'RE FUNNY, TALOFA, NI HAO, BOBA FETT, LINKEDIN, TWITTER, and a few others you'll just have to find (hint: if you look at the GitHub repo in the script.json file, you can see all the options (https://github.com/derekdac/DerekBot).",
+    "RTFM" : 
+    "MAN" : 
+    "BOBA FETT" : "Boba Fett! Boba Fett?! Where? May the force be with you.",
+    "LINKEDIN": "Yeah, I'd love to connect with you on LinkedIn. Just request to connect at http://linkedin/in/derekchristensen.",
+    "TWITTER": "I don't tweet a lot, but when I do it's good stuff. http://twitter.com/derekdac.",
+    "TONY CUCCI ROCKS": "Yeah, Tony's the man.",
+    "STEVE AFTSOMIS": "Best battleship project manager this side of the Mississippi.",
+    "JEFF SOONG": "Now I am the master.\nOnly a master of evil, Darth.",
+    "DAVID LEWIS": "Crushing it. DLEW!!!!!!!!!!!!!"
+    "DISCONNECT": "Roger that, KiriBot is out of here."
 }
